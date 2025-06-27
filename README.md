@@ -1,86 +1,54 @@
-# 👋 Bonjour, et bienvenue sur mon profil GitHub !
+# 👋 Hi, I’m Allassane
 
-Je m'appelle **Allassane Nitiema**, jeune développeur passionné originaire de **Côte d’Ivoire**.  
-Autodidacte, persévérant et profondément motivé, je me forme chaque jour pour devenir un **développeur web fullstack** compétent, créatif et engagé.
+I'm a **self-taught Frontend Web Developer** passionate about building **accessible**, **high-performance**, and **sustainable** digital experiences.  
+I care deeply about **clean code structure**, **readability**, and the **user experience**.  
+Every project is an opportunity for me to **learn**, **grow**, and **create with purpose**.
 
----
-
-## 💡 Ce que je crois
-
-> "On n’a pas besoin de diplôme pour prouver qu’on est capable. Ce qu’il faut, c’est du travail, de la passion, de l’honnêteté… et une volonté de fer."
-
-Je me donne à 100% dans chaque projet. Mon objectif est clair : **aider les entreprises, les ONG et les gens à créer des expériences web utiles, accessibles et durables**, tout en continuant à apprendre avec humilité.
+Currently, I’m exploring modern tools like **Svelte** while strengthening my core skills in **HTML/CSS**, **JavaScript**, and best practices such as the **BEM methodology**.
 
 ---
 
-## 🔧 Mes compétences
+## 💡 What I believe in
 
-🧱 **Frontend**  
-HTML5, CSS3, Tailwind CSS, Sass, JavaScript (Vanilla), Responsive Design, Accessibilité Web
+> _“To grow, you need hard work, passion… and a will of steel.”_
 
-⚙️ **Backend**  
-PHP, MySQL
-
-🎨 **Outils & Méthodes**  
-Git & GitHub, Figma, VS Code, Méthodologie BEM, Mobile First, Desktop First
-
-🧠 **En cours d'apprentissage**  
-Svelte, React, TypeScript, animations CSS avancées, tests d’accessibilité
+I give my best in every line of code.  
+My goal is simple: to **design meaningful and responsible interfaces**, and to **solve real problems** with rigor, creativity, and care.
 
 ---
 
-## ✨ Projets récents
+## 🛠️ Technical Skills
 
-### 📘 News Homepage  
-Landing page responsive inspirée d’un challenge Frontend Mentor.  
-🛠️ HTML, Tailwind CSS  
-🔗 [Voir la démo](https://news-homepage.netlify.app) • [Voir le code](https://github.com/AllassaneNitiema/news-homepage)
+### 🧱 Frontend
+- HTML5, CSS3, JavaScript (Vanilla)
+- Sass, Tailwind CSS
+- Responsive Design (Mobile First & Desktop First)
+- Web Accessibility (actively learning)
 
----
+### 🧠 Currently Learning
+- Svelte, React, TypeScript
+- Advanced CSS animations
+- Accessibility testing
 
-### 🖼️ Room Homepage  
-Site avec carrousel synchronisé image/texte + menu mobile animé.  
-🛠️ HTML, SCSS, JavaScript vanilla  
-🔗 [Voir la démo](https://room-homepage.netlify.app) • [Voir le code](https://github.com/AllassaneNitiema/room-homepage)
-
----
-
-### 📚 Bookmark Landing Page  
-Une landing moderne codée avec Svelte + Tailwind.  
-🛠️ Svelte, Tailwind CSS  
-🔗 [Voir la démo](https://bookmark-landing.netlify.app) • [Voir le code](https://github.com/AllassaneNitiema/bookmark-landing-page)
-
----
-
-## 🌱 Projet à impact
-
-Je fais partie de **Nova CI**, un groupe de jeunes développeurs engagés pour un futur durable.  
-Nous travaillons sur des solutions autour de **l’énergie solaire** en Côte d’Ivoire.  
-💡 Tech for Good, local impact, global vision.
+### ⚙️ Tools & Methods
+- Git & GitHub  
+- Figma  
+- VS Code & Cursor  
+- BEM Methodology  
+- Project management & autonomous workflow
 
 ---
 
-## 🤝 Ce que je recherche
+## 📫 Get in touch
 
-Je suis à la recherche de :
-- 🌍 Opportunités de stage ou de collaboration à distance
-- 💼 Mentorat pour progresser plus vite
-- 🧠 Retours bienveillants pour améliorer mon code
-
-Je suis ouvert, curieux, sérieux et prêt à m’investir dans de vrais projets.
+- 📧 **allassanenitiema@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/allassane-nitiema-400a5835a/)  
+- 🐦 [X (Twitter)](https://x.com/nitiema49461)
 
 ---
 
-## 📫 Me contacter
+Thank you for visiting my profile 🙏  
+Wishing you a day filled with purpose, curiosity, and success.
 
-- 📧 allassane@email.com  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/allassane) *(ou ton vrai lien)*  
-- 💬 Disponible pour discuter en français ou en anglais (en apprentissage)
-
----
-
-Merci d’avoir visité mon profil.  
-Je vous souhaite une belle journée, pleine de sens et de réussite.
-
-Avec respect et passion,  
-**Allassane Nitiema** 🙏
+With respect and passion,  
+**Allassane Nitiema**
