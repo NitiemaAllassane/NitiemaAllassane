@@ -1,55 +1,14 @@
-# 👋 Hi, I’m Nitiema Allassane !
-You can call me **Allassane**. that’s my first name 🙂. Nice to meet you !
+<h1 align="center">Hi 👋, I'm Nitiema Allassane</h1>
+<h3 align="center">A passionate frontend web developer</h3>
 
-I'm a **self-taught Frontend Web Developer** passionate about building **accessible**, **high-performance**, and **sustainable** digital experiences.  
-I care deeply about **clean code structure**, **readability**, and the **user experience**.  
-Every project is an opportunity for me to **learn**, **grow**, and **create with purpose**.
+- 🌱 I’m currently learning **Svelte, React, typeScript**
 
-Currently, I’m exploring modern tools like **Svelte** while strengthening my core skills in **HTML/CSS**, **JavaScript**, and best practices such as the **BEM methodology**.
+- 📫 How to reach me **allassanenitiema@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/allassanenitiema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="allassanenitiema" height="30" width="40" /></a>
+</p>
 
-## 💡 What I believe in
-
-> _“To grow, you need hard work, passion… and a will of steel.”_
-
-I give my best in every line of code.  
-My goal is simple: to **design meaningful and responsible interfaces**, and to **solve real problems** with rigor, creativity, and care.
-
----
-
-## 🛠️ Technical Skills
-
-### 🧱 Frontend
-- HTML5, CSS3, JavaScript (Vanilla)
-- Sass, Tailwind CSS
-- Responsive Design (Mobile First & Desktop First)
-- Web Accessibility (actively learning)
-
-### 🧠 Currently Learning
-- Svelte, React, TypeScript
-- Advanced CSS animations
-- Accessibility testing
-
-### ⚙️ Tools & Methods
-- Git & GitHub  
-- Figma  
-- VS Code & Cursor  
-- BEM Methodology  
-- Project management & autonomous workflow
-
----
-
-## 📫 Get in touch
-
-- 📧 **allassanenitiema@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/allassane-nitiema-400a5835a/)  
-- 🐦 [X (Twitter)](https://x.com/nitiema49461)
-
----
-
-Thank you for visiting my profile 🙏  
-Wishing you a day filled with purpose, curiosity, and success.
-
-With respect and passion,  
-**Allassane Nitiema**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
