@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Nitiema Allassane !
-You can call me **Allassane**. It's my last name 🙂. Nice to meet you !
+You can call me **Allassane**. that’s my first name 🙂. Nice to meet you !
 
 I'm a **self-taught Frontend Web Developer** passionate about building **accessible**, **high-performance**, and **sustainable** digital experiences.  
 I care deeply about **clean code structure**, **readability**, and the **user experience**.  
