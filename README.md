@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Allassane
+# 👋 Hi, I’m Nitiema !
 
 I'm a **self-taught Frontend Web Developer** passionate about building **accessible**, **high-performance**, and **sustainable** digital experiences.  
 I care deeply about **clean code structure**, **readability**, and the **user experience**.  
