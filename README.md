@@ -41,29 +41,6 @@ I'm a passionate frontend developer who loves creating exceptional user experien
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NitiemaAllassane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitiemaAllassane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitiemaAllassane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🎯 Featured Projects
-
-### 🌟 [Trafalgar landing page]([project-link](https://trafalgar-site-seven.vercel.app/))
-A modern healthcare landing page with clean design and responsive layout. Built with Svelte, TypeScript, and Tailwind CSS for optimal performance and user experience.
-
-### 🚀 [Bookmark landing page]([project-link](https://bookmark-landing-page-orcin-three.vercel.app/))
-An elegant bookmark manager landing page featuring smooth animations and interactive elements. Developed using Svelte, JavaScript, and Tailwind CSS for a lightweight and fast experience.
-
-
 ## 🌟 What Drives Me
 
 > "Code is not just instructions for the computer, it's also communication with other developers."
@@ -93,18 +70,6 @@ I love connecting with fellow developers and discussing new ideas. Feel free to 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
-## 🎨 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitiemaAllassane&theme=tokyo-night&hide_border=true&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NitiemaAllassane&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-</div>
 
 ## 🎯 My Journey
 
