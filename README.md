@@ -4,15 +4,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Frontend+Web+Developer;Passionate+about+Clean+Code;Always+Learning+New+Things;Building+Amazing+User+Experiences" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate frontend developer who loves creating exceptional user experiences. My journey in web development is driven by curiosity and a constant desire to learn new technologies.
 
-- 🔭 Currently working on **React** and **TypeScript** projects
-- 🌱 Continuously learning the latest **frontend development** trends
-- 💡 I enjoy solving complex problems with elegant solutions
-- 🎯 My goal: building performant and accessible web applications
-- ⚡ Fun fact: **I love acquiring new knowledge and skills**
+- Currently working on **React** and **TypeScript** projects
+-  Continuously learning the latest **frontend development** trends
+-  I enjoy solving complex problems with elegant solutions
+- My goal: building performant and accessible web applications
+-  Fun fact: **I love acquiring new knowledge and skills**
 
 ## 🛠️ Tech Stack & Tools
 
@@ -41,7 +41,7 @@ I'm a passionate frontend developer who loves creating exceptional user experien
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
 
-## 🌟 What Drives Me
+## What Drives Me
 
 > "Code is not just instructions for the computer, it's also communication with other developers."
 
@@ -53,12 +53,11 @@ I firmly believe that web development goes beyond just coding. It's about:
 
 ## 📈 What I'm Learning Next
 
-- 🔥 **Next.js** - Server-side rendering and full-stack React
-- ⚡ **Svelte Motion** - Smooth animations and transitions in Svelte
-- 🎨 **GSAP** - Professional-grade animations and interactive experiences
-- 🌟 **Three.js** - 3D graphics and immersive web experiences
+-  **Next.js** - Server-side rendering and full-stack React
+-  **GSAP** - Professional-grade animations and interactive experiences
+-  **Three.js** - 3D graphics and immersive web experiences
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 I love connecting with fellow developers and discussing new ideas. Feel free to reach out!
 
@@ -71,7 +70,7 @@ I love connecting with fellow developers and discussing new ideas. Feel free to 
   </a>
 </p>
 
-## 🎯 My Journey
+##  My Journey
 
 I'm currently building my portfolio and exploring the exciting world of frontend development. Every project is a new learning opportunity, and I'm excited to contribute to open source projects in the near future!
 
@@ -82,5 +81,5 @@ I'm currently building my portfolio and exploring the exciting world of frontend
 </div>
 
 <div align="center">
-  <i>💡 "Every line of code is an opportunity to learn something new"</i>
+  <i> "Every line of code is an opportunity to learn something new"</i>
 </div>
